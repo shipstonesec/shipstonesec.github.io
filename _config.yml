@@ -1,2 +1,4 @@
 name: Shipstone Security
 markdown: kramdown
+
+theme: jekyll-theme-minimal
